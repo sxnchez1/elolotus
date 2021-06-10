@@ -82,8 +82,10 @@ body {
 .btn-lg1 {
   border-width: medium;
   border-radius: 0;
-  font-size: 2rem;
+  font-size: 4rem;
   padding: .6rem 1.1rem;
+  transform: translateY(0%);
+  transform: translateX(150%);
 }
 .btn-lg2 {
   position: relative;
