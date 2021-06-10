@@ -96,54 +96,6 @@ body {
   width: 291px;
   z-index: var(-2);
 }
-.elo1 {
-  position: relative;
-  left: 220px;
-  bottom: 300px;
-  width: 18%; 
-  height: auto;
-  text-shadow: .1rem .1rem .8rem black;
-}
-.elo2 {
-  position: relative;
-  left: 430px;
-  bottom: 515px;
-  width: 18%; 
-  height: auto;
-  text-shadow: .1rem .1rem .8rem black;
-}
-.elo3 {
-  position: relative;
-  left: 635px;
-  bottom: 730px;
-  width: 18%; 
-  height: auto;
-  text-shadow: .1rem .1rem .8rem black;
-}
-.elo4 {
-  position: relative;
-  left: 850px;
-  bottom: 945px;
-  width: 18%; 
-  height: auto;
-  text-shadow: .1rem .1rem .8rem black;
-}
-.elo5 {
-  position: relative;
-  left: 1035px;
-  bottom: 1160px;
-  width: 18%; 
-  height: auto;
-  text-shadow: .1rem .1rem .8rem black;
-}
-.elo6 {
-  position: relative;
-  left: 1270px;
-  bottom: 1380px;
-  width: 18%; 
-  height: auto;
-  text-shadow: .1rem .1rem .8rem black;
-}
 
 
 
