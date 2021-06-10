@@ -89,13 +89,30 @@ body {
   border-radius: 0;
   font-size: 2rem;
 }
+.btn-lg3 {
+  position: relative;
+  left: 20px;
+  bottom: -330px;
+  border-width: medium;
+  border-radius: 0;
+  font-size: 2rem;
+}
 .home__img1 {
   position: relative;
-  left: 700px;
-  bottom: 330px;
+  left: 330px;
+  bottom: 400px;
   width: 291px;
   z-index: var(-2);
 }
+.home__img2 {
+  position: absolute;
+  left: 330px;
+  bottom: 470px;
+  width: 10px;
+  height: 0px;
+  z-index: var(-2);
+}
+
 
 
 
